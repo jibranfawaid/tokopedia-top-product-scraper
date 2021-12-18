@@ -27,7 +27,7 @@ After I request <a href="https://www.tokopedia.com/p/handphone-tablet/handphone"
 <img src="https://github.com/JibranFawaid/BrickTokopediaWebScrapper/blob/main/images/File%20Writer.png?raw=true"></img>
 6. Every product will be requested and the program will collecting the data that we needed. After that, the program will write it down in CSV file
 <img src="https://github.com/JibranFawaid/BrickTokopediaWebScrapper/blob/main/images/Write%20Every%20Data.png?raw=true"></img>
-7. Result of this program can be looked at result/top-100-phones.csv
+7. Result of this program can be looked at result/top-100-phones.csv and watch the demo at demo/
 
 <hr>
 Sincerely,
