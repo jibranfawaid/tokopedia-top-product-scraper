@@ -14,7 +14,7 @@ The project is made by Jibran Fawaid
 
 ## How it Works
 1. I downloaded <a href="https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java">Selenium</a> as dependencies of 
-   this program. Based on what I have learned about <a href="https://www.tokopedia.com/p/handphone-tablet/handphone">Mobile Phone Products</a>'s page on Tokopedia, it needs a javascript to load every elements. Also, I already used a borderless web request like HtmlUnit and it doesn't work.
+   this program. Based on what I have learned about <a href="https://www.tokopedia.com/p/handphone-tablet/handphone">Mobile Phone Products</a>'s page on Tokopedia, it needs a javascript to load every elements, because Tokopedia's Web is a Dynamic Web. Also, I already used a borderless web request like HtmlUnit and it doesn't work.
 2. Before I start to scrape the web, I prepare a Configuration and ScraperService to initialize the <a href="https://chromedriver.chromium.org/downloads">WebDriver </a>
 2. From the pattern that I have learned, we need to scrolldown the page to load every product
 <img src="https://github.com/JibranFawaid/BrickTokopediaWebScrapper/blob/main/images/ScrollDown.png?raw=true"></img>
